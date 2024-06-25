@@ -1,0 +1,11 @@
+{
+	"title"											: "Project Chapter OG",
+	"executable"									: "FortniteClient-Win64-Shipping.exe",
+	"productid"										: "38b49d5a3f03436e849085d5106424f3",
+	"sandboxid"										: "8a73f336829a4a8bb904c4482191bdd0",
+	"deploymentid"									: "projectchapterog",
+	"requested_splash"								: "EasyAntiCheat/SplashScreen.png",
+	"wait_for_game_process_exit"					: "true",
+	"hide_bootstrapper"								: "false",
+	"hide_gui"										: "false"
+}
