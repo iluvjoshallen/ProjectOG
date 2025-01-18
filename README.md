@@ -6,7 +6,7 @@ Get started for free today @ https://chapterog.com
 
 Credits:
 ```
-Backend: Momentum
-GameServer: iluvjoshallen / Reboot 3.0
+Backend: Momentum - Modified by iluvjoshallen
+GameServer: iluvjoshallen
 Launcher: ilvujoshallen
 ```
